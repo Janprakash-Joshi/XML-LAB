@@ -1,0 +1,17 @@
+book, title,summary,author,publish_date{
+    display: block;
+     margin: 1rem;
+  text-align: center;
+}
+book{
+    border: 1px solid black;
+    font-size: 1.5rem;
+    margin: 1rem;
+}
+
+name, hiredate{
+    display: block;
+}
+project{
+    display: flex;
+}
